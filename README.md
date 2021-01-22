@@ -2,7 +2,7 @@
 
 Welcome to my github. Here you'll find some frontend projects, some backend projects, and of course, some full stack projects. Software development is fun (^L^)
 
-I'm currently working on acquiring a production key from Riot Games so that my largest project, JungleDiff, can (legally) be publicly hosted. 
+I'm currently working on acquiring a production key from Riot Games so that my largest project, JungleDiff, can be publicly (legally) hosted. 
 
 <!--
 **JJamali/JJamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
