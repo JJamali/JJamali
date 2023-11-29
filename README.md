@@ -1,5 +1,5 @@
 ### !!Hello!! 🐒
 
-Welcome to my github. Software development is fun (^L^)
+Young professional who wants to show the world that he can code.
 
 Contact me at jordan.jamali@uwaterloo.ca
