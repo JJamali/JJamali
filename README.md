@@ -1,5 +1,5 @@
 ### !!Hello!! 🐒
 
-Young professional who wants to show the world that he can code.
+Young professional who likes to code.
 
 Contact me at jordan.jamali@uwaterloo.ca
