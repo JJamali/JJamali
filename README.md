@@ -1,5 +1,5 @@
 ### !!Hello!! 🐒
 
-Young professional who likes to code.
+Epic coder
 
 Contact me at jordan.jamali@uwaterloo.ca
